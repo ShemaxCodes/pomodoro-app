@@ -1,5 +1,8 @@
 body {
-    background: #272327;
+    background-image: url('https://source.unsplash.com/YrcfSDVli3Y');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     font-family: 'Pacifico', cursive;
     text-align: center;
 }
@@ -8,9 +11,6 @@ body {
     color: #bae8e8;
 }
 
-.row {
-    width: 100%;
-}
 
 
 .btn {
@@ -21,12 +21,14 @@ body {
 .timer {
     color: #fff;
     text-align: center;
+    width: 20rem;
     height: 20rem;
     border: 5px solid #fff;
     border-radius: 10rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: xx-large;
 }
 
 .fa-play, 
