@@ -1,17 +1,22 @@
 body {
-    background-image: url('https://source.unsplash.com/YrcfSDVli3Y');
+    background-image: url('https://source.unsplash.com/ruJm3dBXCqw');
+    background-color: gray;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Pacifico', cursive;
     text-align: center;
+    
 }
 
 .heading {
     color: #bae8e8;
 }
 
-
+.container {
+    text-align: center;
+    display: inline-block;
+}
 
 .btn {
     background: transparent;
